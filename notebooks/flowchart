@@ -1,0 +1,28 @@
+digraph {
+	A [label=Inicio]
+	B [label="Agrupar Datos por Año"]
+	C [label="Inicializar Lista de Datos Resumidos"]
+	D [label="Para Cada Estación en las Columnas del DataFrame"]
+	E [label="Test de Pettitt"]
+	F [label="Test SNHT"]
+	G [label="Test de Buishand"]
+	H [label="Añadir Resultados de los Tests a Datos Resumidos"]
+	I [label="Finalizar el Bucle para Cada Estación"]
+	J [label="Crear DataFrame Resumido"]
+	K [label="Devolver DataFrame Resumido"]
+	L [label="Mostrar Tabla Resumida"]
+	A -> B
+	B -> C
+	C -> D
+	D -> H
+	H -> I
+	I -> J
+	J -> K
+	K -> L
+	D -> E
+	D -> F
+	D -> G
+	E -> H
+	F -> H
+	G -> H
+}

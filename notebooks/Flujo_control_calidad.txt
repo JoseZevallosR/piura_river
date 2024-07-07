@@ -1,0 +1,45 @@
++-------------------+
+|      Inicio       |
++--------+----------+
+         |
+         v
++--------+----------+
+| Agrupar Datos por |
+|       Año         |
++--------+----------+
+         |
+         v
++-------------------+
+| Para Cada Estación|
+| en las Columnas   |
+| del DataFrame     |
++--------+----------+
+         |
+         v
++-------------------+      +-------------------+       +--------------------+
+|  Test de Pettitt  |      |      Test SNHT    |       |    Test de Buishand |
+|-------------------|      |-------------------|       |---------------------|
+| pettitt_res =     |      | snht_res =        |       | buishand_res =      |
+| hg.pettitt_test(  |      | hg.snht_test(     |       | hg.buishand_u_test( |
+| df_cleaned[[      |      | df_cleaned[[      |       | df_cleaned[[        |
+| station]], alpha= |      | station]], sim=   |       | station]])          |
+| 0.01)             |      | 100000)           |       |                     |
+|-------------------|      |-------------------|       |---------------------|
+| Pettitt_CP        |      | SNHT_CP           |       | Buishand_CP         |
+| Pettitt_Hypothesis|      | SNHT_Hypothesis   |       | Buishand_Hypothesis |
+| Pettitt_Mean_Pre  |      | SNHT_Mean_Pre     |       | Buishand_Mean_Pre   |
+| Pettitt_Mean_Post |      | SNHT_Mean_Post    |       | Buishand_Mean_Post  |
++-------------------+      +-------------------+       +---------------------+
+         |
+         v
++-------------------+
+| Añadir Resultados |
+| de los Tests a    |
+| Datos Resumidos   |
++--------+----------+
+         |
+         v
++-------------------+
+| Mostrar Tabla     |
+|    Resumida       |
++-------------------+
