@@ -1,0 +1,56 @@
++---------------------------------------+
+|                Start                  |
++---------------------------------------+
+                |
+                v
++---------------------------------------+
+| 1. Prepare Data                       |
+|    - Drop rows with NaN in target     |
+|      station                          |
+|    - Create target_nan_df with rows   |
+|      containing NaN in target station |
+|    - Filter rows where other columns  |
+|      are not NaN                      |
++---------------------------------------+
+                |
+                v
++---------------------------------------+
+| 2. Train-Test Split                   |
+|    - Split data into train_df (70%)   |
+|      and test_df (30%)                |
++---------------------------------------+
+                |
+                v
++---------------------------------------+
+| 3. Train Regression Models            |
+|    - Initialize and train Linear      |
+|      Regression and Random Forest     |
+|      models                           |
++---------------------------------------+
+                |
+                v
++---------------------------------------+
+| 4. Evaluate Models                    |
+|    - Calculate RMSE for both models   |
+|    - Select model with lower RMSE     |
++---------------------------------------+
+                |
+                v
++---------------------------------------+
+| 5. Complete Missing Data              |
+|    - Predict and fill missing values  |
+|      using selected model             |
++---------------------------------------+
+                |
+                v
++---------------------------------------+
+| 6. Merge and Return                   |
+|    - Merge modified DataFrames        |
+|    - Return merged_df, selected_model_|
+|      name, and RMSE                   |
++---------------------------------------+
+                |
+                v
++---------------------------------------+
+|                 End                   |
++---------------------------------------+
