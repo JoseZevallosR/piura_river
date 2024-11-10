@@ -1,6 +1,6 @@
 print.prt: written by SWAT+ editor v3.0.4 on 2024-10-15 00:19 for SWAT+ rev.61.0.1
 nyskip      day_start  yrc_start  day_end   yrc_end   interval  
-1           0         0         0         0         1         
+1            0           0           0          0          1          
 aa_int_cnt  
 0           
 csvout        dbout         cdfout        
@@ -39,7 +39,7 @@ hru-lte_nb                   n             n             y             y
 hru-lte_ls                   n             n             y             y  
 hru-lte_pw                   n             n             y             y  
 channel                      n             n             y             y  
-channel_sd                   n             n             y             y  
+channel_sd                   y             n             n             n
 aquifer                      n             n             y             y  
 reservoir                    n             n             y             y  
 recall                       n             n             y             y  
