@@ -1,4 +1,0 @@
-Skipping hmd import. File does not exist: C:\Users\USER\Desktop\reunion 24112024\datos climaticos\rh.txt
-Skipping slr import. File does not exist: C:\Users\USER\Desktop\reunion 24112024\datos climaticos\solar.txt
-Skipping wnd import. File does not exist: C:\Users\USER\Desktop\reunion 24112024\datos climaticos\wind.txt
-Skipping pet import. File does not exist: C:\Users\USER\Desktop\reunion 24112024\datos climaticos\pet.txt

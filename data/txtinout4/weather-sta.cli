@@ -1,7 +1,0 @@
-weather-sta.cli: written by SWAT+ editor v3.0.4 on 2024-12-06 20:47 for SWAT+ rev.61.0.1
-name                           wgn                        pcp                        tmp                        slr                        hmd                        wnd                        pet          atmo_dep  
-s5037s79792w               chalaco                chalaco.pcp             chalacotmp.tmp                        sim                        sim                        sim                       null              null  
-s5167s80617w            miraflores             miraflores.pcp          Miraflorestmp.tmp                        sim                        sim                        sim                       null              null  
-s5250s79717w           huancabamba            huancabamba.pcp            Huarmacatmp.tmp                        sim                        sim                        sim                       null              null  
-s5517s80833w                 chuza                  chuza.pcp               chuzatmp.tmp                        sim                        sim                        sim                       null              null  
-s5566s79525w              huamarca               huamarca.pcp         Huancabambatmp.tmp                        sim                        sim                        sim                       null              null  
