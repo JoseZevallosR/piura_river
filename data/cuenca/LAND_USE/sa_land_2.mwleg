@@ -1,0 +1,20 @@
+<ColoringScheme SchemeType="Grid">
+  <GridColoringScheme AmbientIntensity="0.7" Key="" LightSourceAzimuth="90" LightSourceElevation="45" LightSourceIntensity="0.7" NoDataColor="-16777216">
+    <Break Caption="1.000" LowValue="1" HighValue="1" LowColor="-8363679" HighColor="-8363679" ColoringType="1" GradientModel="1" />
+    <Break Caption="2.000" LowValue="2" HighValue="2" LowColor="-16761583" HighColor="-16761583" ColoringType="1" GradientModel="1" />
+    <Break Caption="3.000" LowValue="3" HighValue="3" LowColor="-8344881" HighColor="-8344881" ColoringType="1" GradientModel="1" />
+    <Break Caption="5.000" LowValue="5" HighValue="5" LowColor="-16752086" HighColor="-16752086" ColoringType="1" GradientModel="1" />
+    <Break Caption="6.000" LowValue="6" HighValue="6" LowColor="-8373416" HighColor="-8373416" ColoringType="1" GradientModel="1" />
+    <Break Caption="7.000" LowValue="7" HighValue="7" LowColor="-16732396" HighColor="-16732396" ColoringType="1" GradientModel="1" />
+    <Break Caption="8.000" LowValue="8" HighValue="8" LowColor="-8367091" HighColor="-8367091" ColoringType="1" GradientModel="1" />
+    <Break Caption="9.000" LowValue="9" HighValue="9" LowColor="-16751463" HighColor="-16751463" ColoringType="1" GradientModel="1" />
+    <Break Caption="10.000" LowValue="10" HighValue="10" LowColor="-8374893" HighColor="-8374893" ColoringType="1" GradientModel="1" />
+    <Break Caption="13.000" LowValue="13" HighValue="13" LowColor="-16727605" HighColor="-16727605" ColoringType="1" GradientModel="1" />
+    <Break Caption="15.000" LowValue="15" HighValue="15" LowColor="-8380752" HighColor="-8380752" ColoringType="1" GradientModel="1" />
+    <Break Caption="16.000" LowValue="16" HighValue="16" LowColor="-16775591" HighColor="-16775591" ColoringType="1" GradientModel="1" />
+    <Break Caption="18.000" LowValue="18" HighValue="18" LowColor="-8368292" HighColor="-8368292" ColoringType="1" GradientModel="1" />
+    <Break Caption="19.000" LowValue="19" HighValue="19" LowColor="-16747688" HighColor="-16747688" ColoringType="1" GradientModel="1" />
+    <Break Caption="21.000" LowValue="21" HighValue="21" LowColor="-8386478" HighColor="-8386478" ColoringType="1" GradientModel="1" />
+    <Break Caption="24.000" LowValue="24" HighValue="24" LowColor="-16758629" HighColor="-16758629" ColoringType="1" GradientModel="1" />
+  </GridColoringScheme>
+</ColoringScheme>
