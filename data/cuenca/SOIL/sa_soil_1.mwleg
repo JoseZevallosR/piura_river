@@ -1,0 +1,6 @@
+<ColoringScheme SchemeType="Grid">
+  <GridColoringScheme AmbientIntensity="0.7" Key="" LightSourceAzimuth="90" LightSourceElevation="45" LightSourceIntensity="0.7" NoDataColor="-16777216">
+    <Break Caption="" LowValue="3264" HighValue="5131" LowColor="-16096246" HighColor="-3702211" ColoringType="0" GradientModel="1" />
+    <Break Caption="" LowValue="5131" HighValue="6998" LowColor="-3702211" HighColor="-926587" ColoringType="0" GradientModel="1" />
+  </GridColoringScheme>
+</ColoringScheme>
