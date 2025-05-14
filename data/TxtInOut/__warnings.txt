@@ -1,4 +1,0 @@
-Skipping hmd import. File does not exist: D:\Thurian\TITULO ARTICULO\Qwat 10102024\QSWAR NUEVO INTENTO\Prueba3\Data txt\chalaco\rh.txt
-Skipping slr import. File does not exist: D:\Thurian\TITULO ARTICULO\Qwat 10102024\QSWAR NUEVO INTENTO\Prueba3\Data txt\chalaco\solar.txt
-Skipping wnd import. File does not exist: D:\Thurian\TITULO ARTICULO\Qwat 10102024\QSWAR NUEVO INTENTO\Prueba3\Data txt\chalaco\wind.txt
-Skipping pet import. File does not exist: D:\Thurian\TITULO ARTICULO\Qwat 10102024\QSWAR NUEVO INTENTO\Prueba3\Data txt\chalaco\pet.txt

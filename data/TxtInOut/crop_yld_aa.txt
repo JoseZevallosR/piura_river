@@ -1,5 +1,0 @@
- Prueba3                  
-  SWAT+ Nov 30 2021    MODULAR Rev 2020.60.5.4                                  
-  
-                                                                            --YIELD (kg/ha)--
-  jday   mon   day    yr    unit PLANTNM                         MASS          C           N           P
