@@ -1,0 +1,6 @@
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {1}{Erster Abschnitt}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Erster Unterabschnitt}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Zweiter Unterabschnitt}{4}{0}{1}
+\beamer@sectionintoc {2}{Zweiter Abschnitt}{5}{0}{2}
+\beamer@sectionintoc {3}{Farben}{10}{1}{3}
