@@ -1,2 +1,0 @@
- SWATPLUS_CUENCAPIURA      SWAT+ Nov 30 2021    MODULAR Rev 2020.60.5.4                                   
-          hru       year         mon         day     operation   lu_before         lu_after
