@@ -1,0 +1,24 @@
+digraph Flujo_LSTM_Q_filled {
+	rankdir=LR size="10,5"
+	A [label="Cargar serie de caudal
+observado (Q)" fillcolor="#AED6F1" shape=box style=filled]
+	B [label="Simular precipitación
+si no existe (P)" fillcolor="#AED6F1" shape=box style=filled]
+	C [label="Escalar Q y P entre [0, 1]" fillcolor="#F9E79F" shape=box style=filled]
+	D [label="Construir características
+con 7 días de rezago
+(Q y P pasados)" fillcolor="#F9E79F" shape=box style=filled]
+	E [label="Entrenar modelo
+LSTM con salida ReLU" fillcolor="#F5B7B1" shape=box style=filled]
+	F [label="Predecir Q y
+desescalar resultados" fillcolor="#F5B7B1" shape=box style=filled]
+	G [label="Rellenar valores NA
+de Q entre 2000–2015
+con predicciones" fillcolor="#ABEBC6" shape=box style=filled]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+	E -> F
+	F -> G
+}
